@@ -5,3 +5,4 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3ffy&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3ffy&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=m3ffy&theme=dark)
