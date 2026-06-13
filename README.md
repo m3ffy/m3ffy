@@ -6,6 +6,10 @@
   Developer • Open Source Enthusiast • Learning New Things
 </h3>
 
+<div align="center">
+<img src="[https://i.imgur.com/your-banner.gif](https://gifs.ru/gifs/22195)" width="800"/>
+</div>
+
 ![snake animation](https://raw.githubusercontent.com/m3ffy/m3ffy/gh-pages/github-contribution-grid-snake.svg)
 
 
