@@ -5,6 +5,7 @@
 <h3 align="center">
   Developer • Open Source Enthusiast • Learning New Things
 </h3>
+
 ![snake animation](https://raw.githubusercontent.com/m3ffy/m3ffy/gh-pages/github-contribution-grid-snake.svg)
 
 
